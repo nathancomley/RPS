@@ -1,5 +1,5 @@
 body {
-    margin: 0 auto;
+    margin:0 auto;
     margin-top: 40px;
     padding: 20px;
     border: 10px solid red;
@@ -13,14 +13,14 @@ body {
     color: white;
     padding: 5px 20px;
     border-radius: 50%;
-    font-size: 65px;
+    font-size:65px;
 }
 
 .circle:hover {
-    background-color: grey;
+    background-color: gray;
 }
 
-.instructions {
-    text.align: center;
+.instruction {
+    text-align: center;
     font-size: 60%;
 }
