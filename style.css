@@ -20,4 +20,7 @@ body {
     background-color: grey;
 }
 
-.instructions
+.instructions {
+    text.align: center;
+    font-size: 60%;
+}
